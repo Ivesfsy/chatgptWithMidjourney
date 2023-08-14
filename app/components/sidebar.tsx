@@ -123,7 +123,7 @@ export function SideBar(props: { className?: string }) {
           蓝衫Midjourney
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI drawing. <a href="http://www.blueshirtmj.com">Midjourney卡密购买</a>
+          Build your own AI drawing. <a href="https://www.bluelsqkj.com/midjourney#div1"卡密购买</a>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
